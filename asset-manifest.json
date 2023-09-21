@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/schoolcool/static/css/main.a23ec6d6.css",
+    "main.js": "/schoolcool/static/js/main.3ea49426.js",
+    "static/media/students.svg": "/schoolcool/static/media/students.9404f2f89ab8934e529d47fe3e48f9f1.svg",
+    "static/media/subjects.svg": "/schoolcool/static/media/subjects.013b9ea5daf1ce262cdf1faf054c2b50.svg",
+    "static/media/assignment.svg": "/schoolcool/static/media/assignment.bc61fe3453a587ff7d3028a4494ad169.svg",
+    "static/media/classroom.png": "/schoolcool/static/media/classroom.f472ff2cd754d14669f3.png",
+    "static/media/time.svg": "/schoolcool/static/media/time.4385c93898939eb79375d3cdc30644aa.svg",
+    "static/media/designlogin.jpg": "/schoolcool/static/media/designlogin.3cac939f195a9e698ba4.jpg",
+    "index.html": "/schoolcool/index.html",
+    "main.a23ec6d6.css.map": "/schoolcool/static/css/main.a23ec6d6.css.map",
+    "main.3ea49426.js.map": "/schoolcool/static/js/main.3ea49426.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a23ec6d6.css",
+    "static/js/main.3ea49426.js"
+  ]
+}
